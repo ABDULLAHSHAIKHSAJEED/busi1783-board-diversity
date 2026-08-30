@@ -1,0 +1,636 @@
+CompanyKey,Company,Year,WomenPct
+BURBERRY,Burberry Group Plc,2025,55.6
+NEXT,Next Plc,2025,33.3
+MARKS SPENCER,Marks & Spencer Group Plc,2025,66.7
+PHOENIX,Phoenix Group Holdings Plc,2025,58.3
+CONVATEC,Convatec Group Plc,2025,55.6
+DIAGEO,Diageo Plc,2025,77.8
+HALEON,Haleon Plc,2025,58.3
+PEARSON,Pearson Plc,2025,63.6
+ASTRAZENECA,AstraZeneca Plc,2025,50.0
+NATIONAL GRID,National Grid Plc,2025,41.7
+GSK,GSK Plc,2025,50.0
+LLOYDS BANKING,Lloyds Banking Group Plc,2025,50.0
+HALMA,Halma Plc,2025,54.5
+SEVERN TRENT,Severn Trent Plc,2025,62.5
+AUTO TRADER,Auto Trader Group Plc,2025,55.6
+LAND SECURITIES,Land Securities Group Plc,2025,45.5
+NATWEST,NatWest Group Plc,2025,60.0
+LEGAL GENERAL,Legal & General Group Plc,2025,41.7
+SPIRAX,Spirax Group Plc,2025,50.0
+RELX,RELX Plc,2025,40.0
+ST JAMES S PLACE,St. James's Place Plc,2025,44.4
+BAE SYSTEMS,BAE Systems Plc,2025,41.7
+SAGE,Sage Group Plc,2025,40.0
+HSBC,HSBC Holdings Plc,2025,61.5
+INFORMA,Informa Plc,2025,45.5
+SSE,SSE Plc,2025,45.5
+KINGFISHER,Kingfisher Plc,2025,37.5
+BEAZLEY,Beazley Plc,2025,45.5
+ANGLO AMERICAN,Anglo American Plc,2025,45.5
+BUNZL,Bunzl Plc,2025,55.6
+BARRATT REDROW,Barratt Redrow Plc,2025,50.0
+SEGRO,SEGRO Plc,2025,44.4
+EXPERIAN,Experian Plc,2025,44.4
+RIGHTMOVE,Rightmove Plc,2025,50.0
+COCA COLA HBC,Coca-Cola HBC AG,2025,35.7
+UNITED,United Utilities Group Plc,2025,45.5
+PRUDENTIAL,Prudential Plc,2025,33.3
+COMPASS,Compass Group Plc,2025,41.7
+DCC,DCC Plc,2025,36.4
+HISCOX,Hiscox Ltd,2025,50.0
+AVIVA,Aviva Plc,2025,46.2
+WPP,WPP Plc,2025,45.5
+CRODA,Croda International Plc,2025,33.3
+MELROSE INDUSTRIES,Melrose Industries Plc,2025,40.0
+J SAINSBURY,J Sainsbury Plc,2025,50.0
+METLEN,Metlen Energy & Metals Plc,2025,35.7
+HIKMA,Hikma Pharmaceuticals Plc,2025,45.5
+BERKELEY,Berkeley Group Holdings Plc,2025,44.4
+INTERCONTINENTAL HOTELS,InterContinental Hotels Group Plc,2025,40.0
+ADMIRAL,Admiral Group Plc,2025,45.5
+ENDEAVOUR,Endeavour Mining Plc,2025,40.0
+IMPERIAL BRANDS,Imperial Brands Plc,2025,36.4
+PERSIMMON,Persimmon Plc,2025,44.4
+UNILEVER,Unilever Plc,2025,40.0
+SCHRODERS,Schroders Plc,2025,58.3
+SHELL,Shell Plc,2025,41.7
+LONDON STOCK EXCHANGE,London Stock Exchange Group Plc,2025,33.3
+DIPLOMA,Diploma Plc,2025,44.4
+IMI,IMI Plc,2025,44.4
+M G,M&G Plc,2025,40.0
+TESCO,Tesco Plc,2025,36.4
+BABCOCK,Babcock International Group Plc,2025,40.0
+GLENCORE,Glencore Plc,2025,44.4
+STANDARD CHARTERED,Standard Chartered Plc,2025,45.5
+EASYJET,easyJet Plc,2025,40.0
+WHITBREAD,Whitbread Plc,2025,50.0
+LONDONMETRIC PROPERTY,Londonmetric Property Plc,2025,44.4
+ICG,ICG Plc,2025,40.0
+RIO TINTO,Rio Tinto Plc,2025,40.0
+ENTAIN,Entain Plc,2025,36.4
+RECKITT BENCKISER,Reckitt Benckiser Group Plc,2025,58.3
+BRITISH AMERICAN,British American Tobacco Plc,2025,50.0
+MONDI,Mondi Plc,2025,40.0
+RENTOKIL INITIAL,Rentokil Initial Plc,2025,36.4
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2025,50.0
+VODAFONE,Vodafone Group Plc,2025,46.2
+BARCLAYS,Barclays Plc,2025,46.2
+CENTRICA,Centrica Plc,2025,46.2
+WEIR,Weir Group Plc,2025,44.4
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2025,60.0
+INTERNATIONAL CONSOLIDATED AIRLINES,International Consolidated Airlines Group S.A.,2025,50.0
+AIRTEL AFRICA,Airtel Africa Plc,2025,33.3
+HOWDEN JOINERY,Howden Joinery Group Plc,2025,55.6
+FRESNILLO,Fresnillo Plc,2025,38.5
+COCA COLA EUROPACIFIC PARTNERS,Coca-Cola Europacific Partners Plc,2025,27.8
+SMITHS,Smiths Group Plc,2025,27.3
+SMITH NEPHEW,Smith & Nephew Plc,2025,30.8
+JD SPORTS FASHION,JD Sports Fashion Plc,2025,30.0
+INTERTEK,Intertek Group Plc,2025,30.8
+ANTOFAGASTA,Antofagasta Plc,2025,30.8
+ASHTEAD,Ashtead Group Plc,2025,22.2
+GAMES WORKSHOP,Games Workshop Group Plc,2025,28.6
+MARKS SPENCER,Marks & Spencer Group Plc,2024,60.0
+PEARSON,Pearson Plc,2024,60.0
+NEXT,Next Plc,2024,33.3
+DIAGEO,Diageo Plc,2024,70.0
+ASTRAZENECA,AstraZeneca Plc,2024,42.9
+PHOENIX,Phoenix Group Holdings Plc,2024,41.7
+NATIONAL GRID,National Grid Plc,2024,36.4
+HALEON,Haleon Plc,2024,54.5
+NATWEST,NatWest Group Plc,2024,50.0
+SAGE,Sage Group Plc,2024,40.0
+SEVERN TRENT,Severn Trent Plc,2024,66.7
+LLOYDS BANKING,Lloyds Banking Group Plc,2024,50.0
+GSK,GSK Plc,2024,50.0
+LAND SECURITIES,Land Securities Group Plc,2024,50.0
+WPP,WPP Plc,2024,41.7
+RIGHTMOVE,Rightmove Plc,2024,37.5
+CONVATEC,Convatec Group Plc,2024,44.4
+LEGAL GENERAL,Legal & General Group Plc,2024,46.2
+AUTO TRADER,Auto Trader Group Plc,2024,66.7
+ST JAMES S PLACE,St. James's Place Plc,2024,44.4
+BEAZLEY,Beazley Plc,2024,45.5
+HARGREAVES LANSDOWN,Hargreaves Lansdown Plc,2024,44.4
+RELX,RELX Plc,2024,40.0
+HALMA,Halma Plc,2024,50.0
+COCA COLA HBC,Coca-Cola HBC AG,2024,38.5
+J SAINSBURY,J Sainsbury Plc,2024,44.4
+BARRATT REDROW,Barratt Developments Plc,2024,41.7
+UNILEVER,Unilever Plc,2024,40.0
+UNITED,United Utilities Group Plc,2024,44.4
+PRUDENTIAL,Prudential Plc,2024,45.5
+KINGFISHER,Kingfisher Plc,2024,55.6
+BRITISH LAND,British Land Company Plc,2024,50.0
+BAE SYSTEMS,BAE Systems Plc,2024,41.7
+HISCOX,Hiscox Ltd,2024,50.0
+BUNZL,Bunzl Plc,2024,50.0
+LONDONMETRIC PROPERTY,Londonmetric Property Plc,2024,40.0
+SSE,SSE Plc,2024,46.2
+INFORMA,Informa Plc,2024,45.5
+WHITBREAD,Whitbread Plc,2024,36.4
+SMITHS,Smiths Group Plc,2024,40.0
+COMPASS,Compass Group Plc,2024,42.9
+IMI,IMI Plc,2024,50.0
+SCHRODERS,Schroders Plc,2024,61.5
+SEGRO,SEGRO Plc,2024,44.4
+UNITE,Unite Group Plc,2024,40.0
+EXPERIAN,Experian Plc,2024,50.0
+M G,M&G Plc,2024,40.0
+AVIVA,Aviva Plc,2024,46.2
+GLENCORE,Glencore Plc,2024,42.9
+STANDARD CHARTERED,Standard Chartered Plc,2024,41.7
+MELROSE INDUSTRIES,Melrose Industries Plc,2024,33.3
+PERSIMMON,Persimmon Plc,2024,40.0
+CRODA,Croda International Plc,2024,40.0
+BERKELEY,Berkeley Group Holdings Plc,2024,44.4
+DIPLOMA,Diploma Plc,2024,50.0
+SPIRAX,Spirax Group Plc,2024,50.0
+ENDEAVOUR,Endeavour Mining Plc,2024,44.4
+EASYJET,easyJet Plc,2024,44.4
+CENTRICA,Centrica Plc,2024,45.5
+RIO TINTO,Rio Tinto Plc,2024,42.9
+ANGLO AMERICAN,Anglo American Plc,2024,45.5
+JD SPORTS FASHION,JD Sports Fashion Plc,2024,36.4
+IMPERIAL BRANDS,Imperial Brands Plc,2024,45.5
+HSBC,HSBC Holdings Plc,2024,57.1
+ENTAIN,Entain Plc,2024,36.4
+ADMIRAL,Admiral Group Plc,2024,45.5
+TESCO,Tesco Plc,2024,45.5
+BRITISH AMERICAN,British American Tobacco Plc,2024,50.0
+WEIR,Weir Group Plc,2024,44.4
+DCC,DCC Plc,2024,40.0
+SHELL,Shell Plc,2024,41.7
+MONDI,Mondi Plc,2024,40.0
+DS SMITH,DS Smith Plc,2024,33.3
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2024,50.0
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2024,50.0
+HIKMA,Hikma Pharmaceuticals Plc,2024,45.5
+RECKITT BENCKISER,Reckitt Benckiser Group Plc,2024,53.8
+VODAFONE,Vodafone Group Plc,2024,38.5
+BARCLAYS,Barclays Plc,2024,38.5
+INTERTEK,Intertek Group Plc,2024,33.3
+TAYLOR WIMPEY,Taylor Wimpey Plc,2024,44.4
+ASHTEAD,Ashtead Group Plc,2024,44.4
+HOWDEN JOINERY,Howden Joinery Group Plc,2024,45.5
+ANTOFAGASTA,Antofagasta Plc,2024,45.5
+GAMES WORKSHOP,Games Workshop Group Plc,2024,40.0
+FRESNILLO,Fresnillo Plc,2024,41.7
+SMITH NEPHEW,Smith & Nephew Plc,2024,27.3
+RENTOKIL INITIAL,Rentokil Initial Plc,2024,30.0
+AIRTEL AFRICA,Airtel Africa Plc,2024,25.0
+BURBERRY,Burberry Group Plc,2023,50.0
+MARKS SPENCER,Marks & Spencer Group Plc,2023,54.5
+NEXT,Next Plc,2023,36.4
+NATIONAL GRID,National Grid Plc,2023,41.7
+LLOYDS BANKING,Lloyds Banking Group Plc,2023,45.5
+PEARSON,Pearson Plc,2023,54.5
+ASTRAZENECA,AstraZeneca Plc,2023,46.2
+DIAGEO,Diageo Plc,2023,70.0
+HALEON,Haleon Plc,2023,45.5
+RIGHTMOVE,Rightmove Plc,2023,57.1
+PHOENIX,Phoenix Group Holdings Plc,2023,38.5
+J SAINSBURY,J Sainsbury Plc,2023,44.4
+BEAZLEY,Beazley Plc,2023,45.5
+LAND SECURITIES,Land Securities Group Plc,2023,40.0
+CONVATEC,Convatec Group Plc,2023,44.4
+NATWEST,NatWest Group Plc,2023,36.4
+GSK,GSK Plc,2023,41.7
+WPP,WPP Plc,2023,41.7
+AUTO TRADER,Auto Trader Group Plc,2023,55.6
+SAGE,Sage Group Plc,2023,40.0
+SEVERN TRENT,Severn Trent Plc,2023,75.0
+MELROSE INDUSTRIES,Melrose Industries Plc,2023,40.0
+UNILEVER,Unilever Plc,2023,41.7
+HALMA,Halma Plc,2023,50.0
+DECHRA,Dechra Pharmaceuticals Plc,2023,42.9
+RELX,RELX Plc,2023,40.0
+WHITBREAD,Whitbread Plc,2023,38.5
+UNITED,United Utilities Group Plc,2023,44.4
+PRUDENTIAL,Prudential Plc,2023,45.5
+SSE,SSE Plc,2023,41.7
+AVIVA,Aviva Plc,2023,41.7
+LEGAL GENERAL,Legal & General Group Plc,2023,41.7
+SMITH NEPHEW,Smith & Nephew Plc,2023,33.3
+STANDARD CHARTERED,Standard Chartered Plc,2023,38.5
+CRODA,Croda International Plc,2023,50.0
+M G,M&G Plc,2023,37.5
+SCHRODERS,Schroders Plc,2023,53.8
+ADMIRAL,Admiral Group Plc,2023,45.5
+KINGFISHER,Kingfisher Plc,2023,44.4
+TESCO,Tesco Plc,2023,41.7
+COMPASS,Compass Group Plc,2023,38.5
+BUNZL,Bunzl Plc,2023,44.4
+COCA COLA HBC,Coca-Cola HBC AG,2023,38.5
+INFORMA,Informa Plc,2023,36.4
+HSBC,HSBC Holdings Plc,2023,46.7
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2023,50.0
+BERKELEY,Berkeley Group Holdings Plc,2023,44.4
+FLUTTER,Flutter Entertainment Plc,2023,36.4
+SEGRO,SEGRO Plc,2023,50.0
+SMITHS,Smiths Group Plc,2023,40.0
+GLENCORE,Glencore Plc,2023,37.5
+CENTRICA,Centrica Plc,2023,41.7
+OCADO,Ocado Group Plc,2023,45.5
+JD SPORTS FASHION,JD Sports Fashion Plc,2023,41.7
+SPIRAX,Spirax-Sarco Engineering Plc,2023,40.0
+SMURFIT KAPPA,Smurfit Kappa Group Plc,2023,45.5
+DS SMITH,DS Smith Plc,2023,40.0
+BAE SYSTEMS,BAE Systems Plc,2023,38.5
+INTERMEDIATE CAPITAL,Intermediate Capital Group Plc,2023,36.4
+RECKITT BENCKISER,Reckitt Benckiser Group Plc,2023,42.9
+EXPERIAN,Experian Plc,2023,45.5
+DCC,DCC Plc,2023,40.0
+ANGLO AMERICAN,Anglo American Plc,2023,40.0
+UNITE,Unite Group Plc,2023,40.0
+VODAFONE,Vodafone Group Plc,2023,45.5
+IMI,IMI Plc,2023,44.4
+TAYLOR WIMPEY,Taylor Wimpey Plc,2023,44.4
+BARRATT REDROW,Barratt Developments Plc,2023,33.3
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2023,40.0
+ST JAMES S PLACE,St. James's Place Plc,2023,37.5
+BRITISH AMERICAN,British American Tobacco Plc,2023,45.5
+IMPERIAL BRANDS,Imperial Brands Plc,2023,40.0
+SHELL,Shell Plc,2023,41.7
+MONDI,Mondi Plc,2023,40.0
+BARCLAYS,Barclays Plc,2023,38.5
+RENTOKIL INITIAL,Rentokil Initial Plc,2023,33.3
+WEIR,Weir Group Plc,2023,44.4
+ENTAIN,Entain Plc,2023,33.3
+HIKMA,Hikma Pharmaceuticals Plc,2023,41.7
+INTERTEK,Intertek Group Plc,2023,41.7
+DIPLOMA,Diploma Plc,2023,37.5
+ASHTEAD,Ashtead Group Plc,2023,44.4
+ANTOFAGASTA,Antofagasta Plc,2023,40.0
+ENDEAVOUR,Endeavour Mining Plc,2023,44.4
+FRESNILLO,Fresnillo Plc,2023,33.3
+RIO TINTO,Rio Tinto Plc30,2023,30.8
+HOWDEN JOINERY,Howden Joinery Group Plc,2023,28.6
+AIRTEL AFRICA,Airtel Africa Plc,2023,27.3
+FRASERS,Frasers Group Plc,2023,28.6
+BURBERRY,Burberry Group Plc,2022,41.7
+NEXT,Next Plc,2022,40.0
+J SAINSBURY,J Sainsbury Plc31,2022,44.4
+PEARSON,Pearson Plc,2022,50.0
+WPP,WPP Plc,2022,38.5
+WHITBREAD,Whitbread Plc,2022,33.0
+RIGHTMOVE,Rightmove Plc,2022,50.0
+HALEON,Haleon Plc,2022,45.5
+BEAZLEY,Beazley Plc,2022,50.0
+PHOENIX,Phoenix Group Holdings,2022,50.0
+HALMA,Halma Plc,2022,50.0
+UNITED,United Utilities Group Plc,2022,44.4
+ASTRAZENECA,AstraZeneca Plc,2022,38.5
+AUTO TRADER,Auto Trader Group Plc,2022,55.6
+DIAGEO,Diageo Plc,2022,63.6
+ABRDN,abrdn Plc,2022,45.5
+LLOYDS BANKING,Lloyds Banking Group Plc,2022,45.5
+SEVERN TRENT,Severn Trent Plc,2022,55.6
+NATWEST,NatWest Group Plc,2022,45.5
+NATIONAL GRID,National Grid Plc,2022,41.7
+JD SPORTS FASHION,JD Sports Fashion Plc,2022,44.4
+MELROSE INDUSTRIES,Melrose Industries Plc,2022,40.0
+RELX,RELX Plc,2022,40.0
+COMPASS,Compass Group Plc,2022,33.0
+UNILEVER,Unilever Plc,2022,38.5
+SAGE,Sage Group Plc32,2022,36.4
+JOHNSON MATTHEY,Johnson Matthey Plc,2022,33.0
+AVIVA,Aviva Plc,2022,41.7
+CONVATEC,Convatec Group Plc,2022,40.0
+ADMIRAL,Admiral Group Plc,2022,54.5
+M G,M&G Plc,2022,44.4
+RIO TINTO,Rio Tinto Plc33,2022,36.4
+CRODA,Croda International Plc,2022,54.5
+SPIRAX,Spirax-Sarco Engineering Plc,2022,40.0
+DS SMITH,DS Smith Plc,2022,37.5
+TESCO,Tesco Plc,2022,41.7
+LEGAL GENERAL,Legal & General Group Plc,2022,41.7
+PERSIMMON,Persimmon Plc,2022,33.0
+BRITISH LAND,British Land Company Plc,2022,40.0
+SSE,SSE Plc,2022,46.2
+SMURFIT KAPPA,Smurfit Kappa Group Plc,2022,38.5
+HSBC,HSBC Holdings Plc,2022,33.0
+STANDARD CHARTERED,Standard Chartered Plc,2022,46.7
+SCHRODERS,Schroders Plc,2022,50.0
+INFORMA,Informa Plc,2022,45.5
+KINGFISHER,Kingfisher Plc,2022,44.4
+LAND SECURITIES,Land Securities Group Plc,2022,44.4
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2022,33.0
+FLUTTER,Flutter Entertainment Plc,2022,46.2
+PRUDENTIAL,Prudential Plc,2022,38.5
+UNITE,Unite Group Plc,2022,40.0
+CENTRICA,Centrica Plc,2022,44.4
+SEGRO,SEGRO Plc,2022,40.0
+HARGREAVES LANSDOWN,Hargreaves Lansdown Plc,2022,45.5
+RECKITT BENCKISER DRUG GROCERY,Reckitt Benckiser Group Plc Drug & Grocery,2022,33.0
+RENTOKIL INITIAL,Rentokil Initial Plc,2022,33.0
+VODAFONE,Vodafone Group Plc,2022,53.8
+BUNZL,Bunzl Plc,2022,37.5
+BAE SYSTEMS,BAE Systems Plc,2022,35.7
+SMITH NEPHEW,Smith & Nephew Plc,2022,36.4
+GLENCORE,Glencore Plc,2022,44.4
+BARRATT REDROW,Barratt Developments Plc,2022,33.0
+ANGLO AMERICAN,Anglo American Plc,2022,33.0
+BERKELEY,Berkeley Group Holdings Plc,2022,33.0
+SMITHS,Smiths Group Plc,2022,40.0
+ENTAIN,Entain Plc,2022,36.4
+BARCLAYS,Barclays Plc,2022,38.5
+AVEVA,AVEVA Group Plc,2022,33.0
+TAYLOR WIMPEY,Taylor Wimpey Plc,2022,44.4
+EXPERIAN,Experian Plc,2022,45.5
+SHELL,Shell Plc,2022,54.5
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2022,33.0
+MONDI,Mondi Plc,2022,33.0
+IMPERIAL BRANDS,Imperial Brands Plc,2022,40.0
+WEIR,Weir Group Plc,2022,41.7
+BRITISH AMERICAN,British American Tobacco Plc,2022,36.4
+ENDEAVOUR,Endeavour Mining Plc,2022,33.0
+DCC,DCC Plc,2022,33.0
+INTERTEK,Intertek Group Plc,2022,36.4
+CRH,CRH Plc,2022,33.0
+ASHTEAD,Ashtead Group Plc,2022,44.4
+FRESNILLO,Fresnillo Plc,2022,33.0
+GSK,GSK Plc,2022,27.3
+OCADO,Ocado Group Plc,2022,30.8
+COCA COLA HBC,Coca-Cola HBC AG,2022,30.8
+ST JAMES S PLACE,St. James's Place Plc,2022,30.0
+AIRTEL AFRICA,Airtel Africa Plc,2022,30.8
+ANTOFAGASTA,Antofagasta Plc,2022,30.0
+FRASERS,Frasers Group Plc,2022,28.6
+NEXT,Next Plc,2021,40.0
+BURBERRY,Burberry Group Plc,2021,54.5
+PEARSON,Pearson Plc,2021,44.4
+J SAINSBURY,J Sainsbury Plc,2021,33.3
+ITV,ITV Plc,2021,45.5
+ASTRAZENECA,AstraZeneca Plc,2021,38.5
+WPP,WPP Plc,2021,42.9
+RIGHTMOVE,Rightmove Plc,2021,50.0
+PHOENIX,Phoenix Group Holdings,2021,33.3
+DIAGEO,Diageo Plc,2021,60.0
+BRITISH LAND,The British Land Company Plc,2021,36.4
+HALMA,Halma Plc,2021,50.0
+DECHRA,Dechra Pharmaceuticals Plc,2021,37.5
+SEVERN TRENT,Severn Trent Plc,2021,50.0
+JD SPORTS FASHION,JD Sports Fashion Plc,2021,42.9
+MELROSE INDUSTRIES,Melrose Industries Plc,2021,45.5
+RIO TINTO,Rio Tinto Plc,2021,36.4
+ADMIRAL,Admiral Group Plc,2021,54.5
+AUTO TRADER,Auto Trader Group Plc,2021,55.6
+LEGAL GENERAL,Legal & General Group Plc,2021,36.4
+NATWEST,NatWest Group Plc,2021,36.4
+AVAST,Avast Plc,2021,33.3
+NATIONAL GRID,National Grid Plc,2021,41.7
+ABRDN,abrdn Plc,2021,50.0
+AVIVA,Aviva Plc,2021,41.7
+M G,M&G Plc,2021,50.0
+FLUTTER,Flutter Entertainment Plc,2021,35.7
+LLOYDS BANKING,Lloyds Banking Group Plc,2021,40.0
+HSBC,HSBC Holdings Plc,2021,38.5
+CRODA,Croda International Plc,2021,44.4
+SEGRO,SEGRO Plc,2021,40.0
+SPIRAX,Spirax-Sarco Engineering Plc,2021,40.0
+INFORMA,Informa Plc,2021,41.7
+RELX,RELX Plc,2021,45.5
+DS SMITH,DS Smith Plc,2021,37.5
+ENTAIN,Entain Plc,2021,33.3
+UNILEVER,Unilever Plc,2021,46.2
+RENTOKIL INITIAL,Rentokil Initial Plc,2021,37.5
+SMURFIT KAPPA,Smurfit Kappa Group Plc,2021,33.3
+SCHRODERS,Schroders Plc,2021,50.0
+BAE SYSTEMS,BAE Systems Plc,2021,35.7
+GSK,10 GlaxoSmithKline Plc,2021,38.5
+VODAFONE,Vodafone Group Plc,2021,44.4
+MONDI,Mondi Plc,2021,44.4
+ROYAL MAIL,Royal Mail Plc,2021,40.0
+BUNZL,Bunzl Plc,2021,37.5
+SHELL,Royal Dutch Shell Plc,2021,50.0
+KINGFISHER,Kingfisher Plc,2021,50.0
+HARGREAVES LANSDOWN,Hargreaves Lansdown Plc,2021,40.0
+ANGLO AMERICAN,Anglo American Plc,2021,38.5
+PRUDENTIAL,Prudential Plc,2021,35.7
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2021,38.5
+PERSIMMON,Persimmon Plc,2021,33.3
+AVEVA,AVEVA Group Plc,2021,40.0
+RECKITT BENCKISER DRUG GROCERY,Reckitt Benckiser Group Plc Drug & Grocery,2021,41.7
+EXPERIAN,Experian Plc,2021,36.4
+BARCLAYS,Barclays Plc,2021,33.3
+TAYLOR WIMPEY,Taylor Wimpey Plc,2021,50.0
+BARRATT REDROW,Barratt Developments Plc,2021,33.3
+SSE,SSE Plc,2021,50.0
+POLYMETAL,Polymetal International Plc,2021,33.3
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2021,33.3
+BRITISH AMERICAN,British American Tobacco Plc,2021,40.0
+INTERTEK,Intertek Group Plc,2021,33.3
+CRH,CRH Plc,2021,33.3
+IMPERIAL BRANDS,Imperial Brands Plc,2021,36.4
+SMITHS,Smiths Group Plc,2021,40.0
+DCC,DCC Plc,2021,36.4
+FERGUSON,Ferguson Plc,2021,45.5
+MEGGITT,Meggitt Plc,2021,44.4
+GLENCORE,Glencore Plc,2021,37.5
+FRESNILLO,Fresnillo Plc,2021,33.3
+INTERMEDIATE CAPITAL,Intermediate Capital Group Plc,2021,41.7
+ASHTEAD,Ashtead Group Plc,2021,37.5
+WHITBREAD,Whitbread Plc,2021,30.0
+BHP,BHP Group Plc,2021,20.0
+SAGE,Sage Group Plc,2021,30.0
+COMPASS,Compass Group Plc,2021,30.8
+UNITED,United Utilities Group Plc,2021,30.0
+SMITH NEPHEW,Smith & Nephew Plc,2021,27.3
+BERKELEY,Berkeley Group Holdings Plc,2021,28.6
+COCA COLA HBC,Coca-Cola HBC AG,2021,30.8
+HIKMA,Hikma Pharmaceuticals Plc,2021,30.0
+TESCO,Tesco Plc,2021,30.8
+STANDARD CHARTERED,Standard Chartered Plc,2021,30.8
+OCADO,Ocado Group Plc,2021,25.0
+ST JAMES S PLACE,St. James's Place Plc,2021,30.0
+EVRAZ,EVRAZ Plc,2021,16.7
+ANTOFAGASTA,Antofagasta Plc,2021,30.0
+DIAGEO,Diageo Plc Beverages,2020,37.4
+SEVERN TRENT,Severn Trent Plc,2020,38.6
+RIGHTMOVE,Rightmove Plc,2020,41.3
+AUTO TRADER,Auto Trader Group Plc,2020,32.7
+M G,M&G Plc,2020,30.3
+TAYLOR WIMPEY,Taylor Wimpey Plc,2020,30.0
+RENTOKIL INITIAL,Rentokil Initial Plc Support Services,2020,27.4
+SPIRAX,Spirax-Sarco Engineering Plc Industrial Engineering,2020,27.3
+WPP,WPP Plc,2020,35.8
+BURBERRY,Burberry Group Plc Personal Goods,2020,50.4
+PEARSON,Pearson Plc,2020,41.0
+ABRDN,Standard Life Aberdeen Plc,2020,36.2
+ADMIRAL,Admiral Group Plc Non-Life,2020,34.5
+VODAFONE,Vodafone Group Plc,2020,30.3
+RELX,RELX Plc,2020,29.8
+SCHRODERS,Schroders Plc,2020,26.6
+FERGUSON,Ferguson Plc Support Services,2020,20.6
+LAND SECURITIES,Land Securities Group Plc,2020,30.0
+PENNON,Pennon Group Plc,2020,30.8
+GSK,GlaxoSmithKline Plc,2020,40.6
+UNILEVER,Unilever Plc Personal Goods,2020,33.5
+RECKITT BENCKISER,Reckitt Benckiser Group Plc,2020,26.3
+ST JAMES S PLACE,St. James's Place Plc,2020,23.9
+CRH,CRH Plc,2020,14.7
+NEXT,Next Plc General Retailers,2020,53.8
+HALMA,Halma Plc,2020,40.9
+RSA,RSA Insurance Group Plc Non-Life,2020,36.4
+AVIVA,Aviva Plc Life,2020,34.5
+RIO TINTO,Rio Tinto Plc Mining,2020,32.3
+KINGFISHER,Kingfisher Plc General Retailers,2020,27.3
+SMITHS,Smiths Group Plc General Industrials,2020,23.7
+EXPERIAN,Experian Plc Support Services,2020,23.7
+INTERTEK,Intertek Group Plc Support Services,2020,23.3
+INTERMEDIATE CAPITAL,Intermediate Capital Group Plc,2020,18.2
+NATIONAL GRID,National Grid Plc,2020,34.2
+SHELL,Royal Dutch Shell Plc Oil & Gas Industry,2020,28.4
+BARRATT REDROW,Barratt Developments Plc,2020,33.3
+DS SMITH,DS Smith Plc General Industrials,2020,30.2
+BUNZL,Bunzl Plc General Industrials,2020,26.9
+CRODA,Croda International Plc,2020,26.3
+ASHTEAD,Ashtead Group Plc Support Services,2020,13.3
+COMPASS,Compass Group Plc,2020,36.4
+NATWEST,NatWest Group Plc,2020,34.2
+LLOYDS BANKING,Lloyds Banking Group Plc,2020,33.6
+SMITH NEPHEW,Smith & Nephew Plc,2020,31.7
+SSE,SSE PLC,2020,23.2
+FRESNILLO,Fresnillo Plc Mining,2020,11.5
+ASTRAZENECA,AstraZeneca Plc,2020,42.9
+STANDARD CHARTERED,Standard Chartered Plc,2020,31.5
+HSBC,HSBC Holdings Plc,2020,28.3
+BRITISH LAND,British Land Company Plc,2020,42.1
+SAGE,Sage Group Plc,2020,38.7
+J SAINSBURY,Sainsbury (J) Plc,2020,38.6
+SEGRO,SEGRO Plc,2020,33.3
+SMURFIT KAPPA,Smurfit Kappa Group Plc General Industrials,2020,31.7
+BHP,BHP Group Plc Mining,2020,26.6
+HARGREAVES LANSDOWN,Hargreaves Lansdown Plc,2020,23.8
+POLYMETAL,Polymetal International Plc Mining,2020,23.1
+BRITISH AMERICAN,British American Tobacco Plc Tobacco,2020,22.1
+PERSIMMON,Persimmon Plc Goods & Home,2020,19.9
+PHOENIX,Phoenix Group Holdings Life,2020,37.5
+TESCO,Tesco Plc,2020,32.2
+COCA COLA HBC,Coca-Cola HBC AG Beverages,2020,29.1
+PRUDENTIAL,Prudential Plc Life,2020,28.4
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2020,26.4
+WHITBREAD,Whitbread Plc,2020,41.4
+LEGAL GENERAL,Legal & General Group Plc Life,2020,39.8
+UNITED,United Utilities Group Plc,2020,33.8
+INFORMA,Informa Plc,2020,30.1
+ANGLO AMERICAN,Anglo American Plc Mining,2020,25.5
+HIKMA,Hikma Pharmaceuticals Plc,2020,24.1
+BERKELEY,Berkeley Group Holdings Plc,2020,20.4
+BM EUROPEAN VALUE RETAIL,B&M European Value Retail SA General Retailers,2020,41.3
+JOHNSON MATTHEY,Johnson Matthey Plc,2020,36.6
+JD SPORTS FASHION,JD Sports Fashion Plc General Retailers,2020,32.4
+AVAST,Avast Plc,2020,33.8
+ENTAIN,Entain Plc,2020,33.3
+MELROSE INDUSTRIES,Melrose Industries Plc General Industrials,2020,33.3
+BAE SYSTEMS,BAE Systems Plc Aerospace & Defense,2020,25.6
+DCC,DCC Plc Support Services,2020,21.0
+JUST EAT,Just Eat Takeaway.com NV,2020,31.1
+BARCLAYS,Barclays Plc,2020,28.6
+MONDI,Mondi Plc General Industrials,2020,28.6
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc Food Producers,2020,23.2
+GLENCORE,Glencore Plc Mining,2020,10.6
+FLUTTER,Flutter Entertainment Plc,2020,31.1
+AVEVA,Aveva Group Plc,2020,27.6
+EVRAZ,Evraz Plc Mining,2020,21.3
+IMPERIAL BRANDS,Imperial Brands Plc Tobacco,2020,16.3
+ANTOFAGASTA,Antofagasta Plc Mining,2020,14.3
+OCADO,Ocado Group Plc Food & Drug Retailers,2020,24.3
+BURBERRY,Burberry Group Plc,2019,50.0
+UNILEVER,Unilever Plc,2019,38.0
+NEXT,Next Plc,2019,44.0
+JD SPORTS FASHION,JD Sports Fashion Plc,2019,29.0
+KINGFISHER,Kingfisher Plc,2019,44.0
+JUST EAT,Just Eat Plc,2019,30.0
+ASTRAZENECA,Astrazeneca Plc,2019,33.0
+GSK,GlaxoSmithKline Plc,2019,45.0
+HIKMA,Hikma Pharmaceuticals Plc,2019,27.0
+MORRISON,WM Morrison Supermarkets Plc,2019,22.0
+J SAINSBURY,Sainsburys Supermarkets Ltd,2019,30.0
+OCADO,Ocado Group Plc,2019,25.0
+TESCO,Tesco Plc,2019,31.0
+ITV,ITV Plc,2019,40.0
+PEARSON,Pearson Plc,2019,33.0
+RIGHTMOVE,Rightmove Plc,2019,50.0
+AUTO TRADER,Auto Trader Group Plc,2019,43.0
+WPP,WPP Plc,2019,42.0
+INFORMA,Informa Plc,2019,30.0
+RELX,Relx Plc,2019,30.0
+NATWEST,Royal Bank Of Scotland Group Plc,2019,42.0
+LLOYDS BANKING,Lloyds Banking Group Plc,2019,25.0
+STANDARD CHARTERED,Standard Chartered Plc,2019,31.0
+HSBC,HSBC Holdings Plc,2019,36.0
+BARCLAYS,Barclays Plc,2019,33.0
+LAND SECURITIES,Land Securities Group Plc,2019,40.0
+BRITISH LAND,British Land Co Plc,2019,30.0
+SEGRO,Segro Plc,2019,30.0
+ADMIRAL,Admiral Group Plc,2019,40.0
+RSA,RSA,2019,33.0
+HISCOX,Hiscox Ltd,2019,27.0
+SEVERN TRENT,Severn Trent Plc,2019,38.0
+UNITED,United Utilities Group Plc,2019,30.0
+CENTRICA,Centrica Plc,2019,17.0
+NATIONAL GRID,National Grid Plc,2019,25.0
+SSE,SSE Plc,2019,30.0
+WHITBREAD,Whitbread Plc,2019,40.0
+INTERCONTINENTAL HOTELS,Intercontinental Hotels Group Plc,2019,36.0
+COMPASS,Compass Group Plc,2019,36.0
+TUI,TUI AG,2019,31.0
+FLUTTER,Flutter Entertainment plc Casinos and Gambling,2019,27.0
+INTERNATIONAL CONSOLIDATED AIRLINES,Airlines,2019,33.0
+CARNIVAL,Carnival Plc,2019,33.0
+DIAGEO,Diageo Plc,2019,44.0
+COCA COLA HBC,Coca-Cola HBC AG,2019,23.0
+LEGAL GENERAL,Legal General Group Plc,2019,36.0
+PHOENIX,Phoenix Group Holdings Life Insurance,2019,33.0
+AVIVA,Aviva Plc,2019,30.0
+PRUDENTIAL,Prudential Plc,2019,23.0
+ST JAMES S PLACE,St James's Place Plc,2019,25.0
+VODAFONE,Vodafone Group Plc,2019,42.0
+ASSOCIATED BRITISH FOODS,Associated British Foods Plc,2019,25.0
+RENTOKIL INITIAL,Rentokil Initial Plc,2019,43.0
+EXPERIAN,Experian Plc,2019,33.0
+FERGUSON,Ferguson Plc,2019,33.0
+BUNZL,Bunzl Plc,2019,25.0
+INTERTEK,Intertek Group Plc,2019,30.0
+DCC,DCC Plc,2019,27.0
+ASHTEAD,Ashtead Group Plc,2019,29.0
+MONDI,Mondi Plc,2019,25.0
+MELROSE INDUSTRIES,Melrose Industries Plc,2019,30.0
+CRH,CRH Plc,2019,42.0
+ABRDN,Standard Life Aberdeen Financial Services,2019,42.0
+LONDON STOCK EXCHANGE,London Stock Exchange Group Plc,2019,31.0
+SCHRODERS,Schroders Plc,2019,45.0
+HARGREAVES LANSDOWN,Hargreaves Lansdown Plc,2019,38.0
+DS SMITH,DS Smith Plc,2019,25.0
+SMURFIT KAPPA,Smurfit Kappa Group Plc,2019,25.0
+SMITHS,Smiths Group Plc,2019,20.0
+SAGE,Sage Group Plc,2019,30.0
+AVEVA,Aveva Group Plc,2019,22.0
+BHP,BHP Billiton Plc,2019,36.0
+RIO TINTO,Rio Tinto Plc,2019,11.0
+ANGLO AMERICAN,Anglo American Plc,2019,20.0
+EVRAZ,Evraz Plc,2019,22.0
+POLYMETAL,Polymetal International Plc,2019,25.0
+ANTOFAGASTA,Antofagasta Plc,2019,20.0
+GLENCORE,Glencore Plc,2019,25.0
+FRESNILLO,Fresnillo Plc,2019,25.0
+SMITH NEPHEW,Smith Nephew Plc,2019,30.0
+NMC HEALTH,NMC Health Plc,2019,18.0
+BAE SYSTEMS,BAE Systems Plc,2019,38.0
+ROLLS ROYCE,Rolls-Royce Holdings Plc,2019,31.0
+MEGGITT,Meggitt Plc,2019,40.0
+JOHNSON MATTHEY,Johnson Matthey Plc,2019,30.0
+CRODA,Croda International Plc,2019,38.0
+HALMA,Halma Plc,2019,40.0
+BARRATT REDROW,Barratt Developments Plc,2019,38.0
+TAYLOR WIMPEY,Taylor Wimpey Plc,2019,40.0
+BERKELEY,Berkeley Group Holdings Plc,2019,25.0
+PERSIMMON,Persimmon Plc,2019,38.0
+RECKITT BENCKISER,Reckitt Benckiser Group Plc,2019,36.0
+SHELL,Royal Dutch Shell Plc,2019,42.0
+SPIRAX,Spirax-Sarco Engineering Plc,2019,30.0
+BRITISH AMERICAN,British American Tobacco Plc,2019,27.0
+IMPERIAL BRANDS,Imperial Brands Plc,2019,40.0
