@@ -1,0 +1,13 @@
+,ROA,TobinQ
+GenderDiv,0.0052,0.5304
+GenderDiv (SE),(0.0531),(0.5222)
+GenderDiv_x_Post,0.0421,-0.1986
+GenderDiv_x_Post (SE),(0.0520),(0.7603)
+FirmSize,0.0439,0.0224
+FirmSize (SE),(0.0270),(0.4090)
+Leverage,-0.1468*,-0.6542
+Leverage (SE),(0.0851),(0.9357)
+Firm FE,Yes,Yes
+Year FE,Yes,Yes
+Within R2,0.0315,0.0245
+N,433,433

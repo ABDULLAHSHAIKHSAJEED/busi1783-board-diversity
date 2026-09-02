@@ -1,0 +1,11 @@
+,ROA,TobinQ
+CriticalMass40,-0.0033,0.1459**
+CriticalMass40 (SE),(0.0078),(0.0667)
+FirmSize,0.0439,0.0250
+FirmSize (SE),(0.0269),(0.4060)
+Leverage,-0.1462*,-0.7137
+Leverage (SE),(0.0843),(0.9182)
+Firm FE,Yes,Yes
+Year FE,Yes,Yes
+Within R2,0.0934,-0.0190
+N,433,433

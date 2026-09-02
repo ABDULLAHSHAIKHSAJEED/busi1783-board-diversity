@@ -1,0 +1,11 @@
+DV,Feature,Importance,CV_R2,Test_R2
+ROA,GenderDiv,0.1332,0.2478,0.2433
+ROA,FirmSize,0.3526,0.2478,0.2433
+ROA,Leverage,0.485,0.2478,0.2433
+ROA,FCA_Post,0.0191,0.2478,0.2433
+ROA,CriticalMass40,0.0101,0.2478,0.2433
+TobinQ,GenderDiv,0.0721,0.6549,0.5015
+TobinQ,FirmSize,0.5305,0.6549,0.5015
+TobinQ,Leverage,0.373,0.6549,0.5015
+TobinQ,FCA_Post,0.0188,0.6549,0.5015
+TobinQ,CriticalMass40,0.0055,0.6549,0.5015
